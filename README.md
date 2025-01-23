@@ -6,14 +6,13 @@ This project aims to fine-tune the **IBM Granite Large Language Model (LLM)** to
 
 The time-dependent heat equation is given as:
 
-\[
 $$\frac{\partial T}{\partial t} - \alpha \left( \frac{\partial^2 T}{\partial x^2} + \frac{\partial^2 T}{\partial y^2} \right) = f(x, y, t)$$
-\]
+
 
 Where:
-- \( T \): Temperature field
-- \( \alpha \): Thermal conductivity (material property)
-- \( f(x, y, t) \): Force function representing external influences
+-  T: Temperature field
+-  $$\alpha$$: Thermal conductivity (material property)
+- f(x, y, t): Force function representing external influences
 
 ---
 
