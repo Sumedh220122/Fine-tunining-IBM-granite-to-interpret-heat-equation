@@ -7,7 +7,7 @@ This project aims to fine-tune the **IBM Granite Large Language Model (LLM)** to
 The time-dependent heat equation is given as:
 
 \[
-\frac{\partial T}{\partial t} - \alpha \left( \frac{\partial^2 T}{\partial x^2} + \frac{\partial^2 T}{\partial y^2} \right) = f(x, y, t)
+$$\frac{\partial T}{\partial t} - \alpha \left( \frac{\partial^2 T}{\partial x^2} + \frac{\partial^2 T}{\partial y^2} \right) = f(x, y, t)$$
 \]
 
 Where:
