@@ -19,7 +19,7 @@ Where:
 ## Objectives
 
 1. **Fine-tune IBM Granite LLM**: Train the model to interpret the heat equation and its boundary conditions for various scenarios.
-2. **Solve Heat Equation**: Generate analytical or numerical solutions based on user-defined inputs for \( f(x, y, t) \), \( \alpha \), and initial/boundary conditions.
+2. **Solve Heat Equation**: Generate analytical or numerical solutions based on user-defined inputs for f(x, y, t), $$\alpha \$$, and initial/boundary conditions.
 
 ---
 
